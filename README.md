@@ -17,6 +17,7 @@ This Repo contains Steps to create an ami image for ec2 instance and reuse that 
 
 
 
+
 # Elastic Ip address ( How to allocate to ec2 )
 ![Screenshot (410)](https://github.com/user-attachments/assets/34cbe3fa-e28b-4f03-9c45-de2e57801390)
 # Go to ec2 and click elastic ips
