@@ -22,6 +22,7 @@ This Repo contains Steps to create an ami image for ec2 instance and reuse that 
 # Go to ec2 and click elastic ips
 ![Screenshot (411)](https://github.com/user-attachments/assets/551860a8-d67b-4735-a4e7-1c21f93dbfbc)
 # Once see the settings and click allocate button
+If click this to be reassociated is selected then it will automatically detach and attach to new instance if elastic ip is allatching to another ec2 when it is already reattached 
 ![Screenshot (412)](https://github.com/user-attachments/assets/cca898d7-4399-4ac9-af2b-f1536e6e6a77)
 # It has been created and the ip address can be seen in the picture
 ![Screenshot (413)](https://github.com/user-attachments/assets/c057ad34-45b1-47aa-b29d-20df2c7c32ed)
