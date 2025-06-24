@@ -31,4 +31,4 @@ This Repo contains Steps to create an ami image for ec2 instance and reuse that 
 # Select the instance in which you want to allocate the elastic ip address
 If click this to be reassociated is selected then it will automatically detach and attach to new instance if elastic ip is allatching to another ec2 when it is already reattached 
 ![Screenshot (415)](https://github.com/user-attachments/assets/26b98374-6e32-40a0-8da9-a1af92f5a7e1)
-# We can see in the picture that elastic ip address has been allocated 
+# We can see in the picture that elastic ip address has been allocated to the ec2 instance
